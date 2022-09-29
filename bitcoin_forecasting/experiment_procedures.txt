@@ -1,0 +1,35 @@
+Iterate the below procedure by rolling_window_cross_validation
+
+(1) Hyperparams Tuning
+Iterate (a)(b)(c) as i takes from 0 to n
+ (a) Fitting
+ Input: X_train, y_train, model[i]
+ Process: fit()
+ Output: fitted_model[i], predicted_train[i]
+
+ (b) Prediction
+ Input: fitted_model[i], X_valid
+ Process: predict()
+ Output: predicted_valid[i]
+
+ (c) Accuracy Check
+ Input: predicted_train[i], y_train, predicted_valid[i], y_valid
+ Process: score()
+ Output: train_score[i], valid_score[i]
+
+ (d) Return the best hyperparams from valid_score[i] where i = 0,1,2,,,n
+
+(2) Fitting again
+Input: optimized_model, X_train_valid, y_train_valid
+Process: fit()
+Output: new_model, predicted_train_valid
+
+(3) Prediction again
+Input: new_model, X_test
+Process: predict()
+Output: predicted_test
+
+(4) Accuracy Check
+Input: y_train_valid, predicted_train_valid, y_test, predicted_test
+Process: score()
+Output: train_valid_score, test_score  

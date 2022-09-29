@@ -1,0 +1,30 @@
+Variables,End of Day,Two days ahead,Three days ahead
+BCH_Price_LogReturn,"0, 1","0, 1","0, 1"
+BCH_Volume_LogReturn,,,2
+BNB_Price_LogReturn,"0, 1","0, 1","0, 1"
+BTC_Price_LogReturn,0,,
+EOS_Price_LogReturn,"0, 1","0, 1","0, 1"
+ETC_Price_LogReturn,"0, 1","0, 1","0, 1"
+ETH_Price_LogReturn,"0, 1","0, 1","0, 1"
+IOTA_Price_LogReturn,"0, 1","0, 1","0, 1"
+IOTA_Volume_LogReturn,,0,
+LTC_Price_LogReturn,"0, 1","0, 1","0, 1"
+NEO_Price_LogReturn,"0, 1","0, 1","0, 1"
+USDT_Price_LogReturn,,1,
+USDT_Volume_LogReturn,"1, 2",0,0
+WAVES_Price_LogReturn,"0, 1","0, 1",0
+XEM_Price_LogReturn,"0, 1","0, 1","0, 1"
+XLM_Price_LogReturn,"0, 1","0, 1","0, 1"
+XMR_Price_LogReturn,"0, 1","0, 1","0, 1"
+XRP_Price_LogReturn,"0, 1","0, 1","0, 1"
+XRP_Volume_LogReturn,2,,
+ZEC_Price_LogReturn,"0, 1","0, 1","0, 1"
+cost-per-transaction_LogReturn,,0,
+gbp_usd_Price_LogReturn,,,1
+gold_Price_LogReturn,0,,
+market-cap_LogReturn,0,0,0
+mempool-count_LogReturn,,1,
+mempool-size_LogReturn,2,1,
+mvrv_LogReturn,0,0,0
+nvts_LogReturn,0,0,0
+utxo-count_LogReturn,"0, 1",,

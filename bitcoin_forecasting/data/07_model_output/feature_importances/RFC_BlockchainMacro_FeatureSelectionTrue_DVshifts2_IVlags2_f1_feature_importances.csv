@@ -1,0 +1,5 @@
+,average_value_of_feature_importances
+market-cap_LogReturn,0.2929945971437899
+utxo-count_LogReturn,0.25228122207594883
+mvrv_LogReturn,0.22806365566375528
+avg-confirmation-time_LogReturn,0.226660525116506

@@ -1,0 +1,30 @@
+Variables,End of Day,Two days ahead,Three days ahead
+BCH_AdjClose_LogReturn,"0, 1","0, 1","0, 1"
+BCH_Volume_LogReturn,,,2
+BNB_AdjClose_LogReturn,"0, 1","0, 1","0, 1"
+EOS_AdjClose_LogReturn,"0, 1","0, 1","0, 1"
+ETC_AdjClose_LogReturn,"0, 1","0, 1","0, 1"
+ETH_AdjClose_LogReturn,"0, 1","0, 1","0, 1"
+IOTA_AdjClose_LogReturn,"0, 1","0, 1","0, 1"
+IOTA_Volume_LogReturn,,0,
+LTC_AdjClose_LogReturn,"0, 1","0, 1","0, 1"
+NEO_AdjClose_LogReturn,"0, 1","0, 1","0, 1"
+USDT_AdjClose_LogReturn,,1,
+USDT_Volume_LogReturn,"1, 2",0,0
+WAVES_AdjClose_LogReturn,"0, 1","0, 1",0
+XEM_AdjClose_LogReturn,"0, 1","0, 1","0, 1"
+XLM_AdjClose_LogReturn,"0, 1","0, 1","0, 1"
+XMR_AdjClose_LogReturn,"0, 1","0, 1","0, 1"
+XRP_AdjClose_LogReturn,"0, 1","0, 1","0, 1"
+XRP_Volume_LogReturn,2,,
+ZEC_AdjClose_LogReturn,"0, 1","0, 1","0, 1"
+btc_LogReturn,0,,
+cost-per-transaction_LogReturn,,0,
+gbp_usd_AdjClose_LogReturn,,,1
+gold_AdjClose_LogReturn,0,,
+market-cap_LogReturn,0,0,0
+mempool-count_LogReturn,,1,
+mempool-size_LogReturn,2,1,
+mvrv_LogReturn,0,0,0
+nvts_LogReturn,0,0,0
+utxo-count_LogReturn,"0, 1",,

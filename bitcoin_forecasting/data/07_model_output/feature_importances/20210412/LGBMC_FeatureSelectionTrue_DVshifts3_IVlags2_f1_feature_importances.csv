@@ -1,0 +1,12 @@
+,average_value_of_feature_importances
+n-transactions-total_LogReturn,0.1466864224137931
+market-cap_LogReturn,0.14022090517241378
+XMR_AdjClose_LogReturn,0.11516702586206896
+LTC_AdjClose_LogReturn,0.11489762931034483
+BNB_AdjClose_LogReturn,0.11435883620689655
+NEO_AdjClose_LogReturn,0.0980603448275862
+BNB_AdjClose_LogReturn_lag1,0.09159482758620689
+ETH_AdjClose_LogReturn,0.05697737068965517
+EOS_AdjClose_LogReturn,0.05374461206896552
+BCH_AdjClose_LogReturn,0.03461745689655173
+ETC_AdjClose_LogReturn,0.033674568965517244

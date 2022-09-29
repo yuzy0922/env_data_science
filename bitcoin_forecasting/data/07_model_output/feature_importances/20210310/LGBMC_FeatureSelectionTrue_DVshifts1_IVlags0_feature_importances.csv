@@ -1,0 +1,15 @@
+,average_value_of_feature_importances
+btc_LogReturn,0.109107303877367
+02_market-cap_LogReturn,0.09828674481514878
+LTC_AdjClose_LogReturn,0.09558160504959423
+00_total-bitcoins_LogReturn,0.08385933273219116
+USDT_Volume_LogReturn,0.0757439134355275
+EOS_AdjClose_LogReturn,0.0739404869251578
+29_mvrv_LogReturn,0.07303877366997295
+LTC_Volume_LogReturn,0.0721370604147881
+XRP_Volume_LogReturn,0.0721370604147881
+ZEC_AdjClose_LogReturn,0.05320108205590622
+BNB_AdjClose_LogReturn,0.05229936880072137
+ETH_AdjClose_LogReturn,0.04959422903516682
+NEO_AdjClose_LogReturn,0.04869251577998197
+07_n-transactions-total_LogReturn,0.04238052299368801
